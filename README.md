@@ -56,6 +56,5 @@ project link: https://github.com/razuahmed75/Calculator-App
 ## [Payment-App]
 project link: https://github.com/razuahmed75/Payment_App
 
-![Payment_App](https://user-images.githubusercontent.com/99271821/213566527-70f07660-4cc0-4f37-8363-eb522c9c3687.png)
-
+![Payment_App](https://user-images.githubusercontent.com/99271821/213567242-df8df636-b55b-4a9c-a03c-bca473e95199.png)
 
